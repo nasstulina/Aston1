@@ -8,7 +8,7 @@ public class Tasks {
         Tasks.printThreeWords();
 
         System.out.println("\nЗадание №2");
-        Tasks.chekSumSign();
+        Tasks.cheсkSumSign();
 
         System.out.println("\nЗадание №3");
         Tasks.printColor();
@@ -62,7 +62,7 @@ public class Tasks {
     Далее метод должен просуммировать эти переменные, и если их сумма больше или равна 0,
     то вывести в консоль сообщение “Сумма положительная”,
     в противном случае - “Сумма отрицательная”;*/
-    public static void chekSumSign() {
+    public static void cheсkSumSign() {
         int a = 5;
         int b = -10;
         int sum = a + b;
