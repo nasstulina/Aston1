@@ -241,7 +241,7 @@ public class Tasks {
 
   /*14. Написать метод, принимающий на вход два аргумента: len и initialValue,
   и возвращающий одномерный массив типа int длиной le
-  n, каждая ячейка которого равна initialValue.*/
+  n, каждая ячейка которого равна initialValue*/
 
         public static void arrLen(){
             int len = 10;

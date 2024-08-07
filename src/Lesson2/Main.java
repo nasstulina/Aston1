@@ -89,7 +89,7 @@ public class Main {
 
         /*14. Написать метод, принимающий на вход два аргумента: len и initialValue,
   и возвращающий одномерный массив типа int длиной le
-  n, каждая ячейка которого равна initialValue.*/
+  n, каждая ячейка которого равна initialValue*/
         System.out.println("\nЗадание №14");
         Tasks.arrLen();
     }
